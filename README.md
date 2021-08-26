@@ -32,10 +32,8 @@
 
 
 ## Write a program to reverse an array 
-- <a href="" target="blank" style="color:red"> click here</a>
+- <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/reverse.cpp" target="blank" style="color:red"> click here</a>
 
 ## Maximum and minimum of an array
 - method 1 (liner method):<a href="" target="blank" style="color:red"> click here</a>
--
 - method 2 (tornament method):<a href="" target="blank" style="color:red"> click here</a>
--
