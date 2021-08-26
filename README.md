@@ -29,7 +29,7 @@
 - All elements stored on Consecutive memory location.
 - All elements can be accessed using a set of indexes.
 
-img src="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/images/array.png" alt="coverpic" border="0">
+<img src="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/images/array.png" alt="coverpic" border="0">
 
 ## Write a program to reverse an array 
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/reverse.cpp" target="blank" style="color:red"> click here</a>
