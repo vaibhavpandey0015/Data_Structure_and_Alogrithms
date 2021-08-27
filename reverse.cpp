@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int A[10];
-    
+    cout<<"Enter 10 element in Array:";
     for(int i=0; i<10; i++){
         cin>>A[i];
     }

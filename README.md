@@ -38,5 +38,7 @@
 - method 1 (liner method):<a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/maxandminmethod1.cpp" target="blank" style="color:red"> click here</a>
 - method 2 (tornament method):<a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/maxandminmethod2.cpp" target="blank" style="color:red"> click here</a>
 
-
+## Array searching
+- Linear Search: <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/linearsearch.cpp" target="blank" style="color:red"> click here</a>
+- Binary Search (for this Array must be sorted): <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/binarysearch.cpp" target="blank" style="color:red"> click here</a>
 
