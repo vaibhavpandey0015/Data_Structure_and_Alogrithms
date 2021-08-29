@@ -44,3 +44,6 @@
 
 ## Sort an array of 0s, 1s and 2s
 - Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order. <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/sort012.cpp" target="blank"> click here</a>
+
+## Move all negative numbers to beginning and positive to end with constant extra space
+- <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/movenegative.cpp" target="blank"> click here</a>
