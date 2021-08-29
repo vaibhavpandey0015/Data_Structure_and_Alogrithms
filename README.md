@@ -42,3 +42,5 @@
 - Linear Search: <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/linearsearch.cpp" target="blank"> click here</a>
 - Binary Search (for this Array must be sorted): <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/binarysearch.cpp" target="blank"> click here</a>
 
+## Sort an array of 0s, 1s and 2s
+- Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order. <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/sort012.cpp" target="blank"> click here</a>
