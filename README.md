@@ -50,3 +50,6 @@
 
 ## Kadane's Algorithm
 - find Largest sum contiguous Subarray <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kadane.cpp" target="blank"> click here</a>
+
+## Count Inversions
+- Solution 1 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount1.cpp" target="blank"> click here</a>
