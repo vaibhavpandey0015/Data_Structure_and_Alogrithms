@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void bubblesort(int arr[],int n){
+void inversionssort(int arr[],int n){
 
     for (int i = 0; i < n - 1; i++)
         for (int j = i + 1; j < n; j++)
@@ -29,7 +29,7 @@ int main(){
     }
     cout<<"\n";
     
-    inversionsort(arr,n);
+    inversionssort(arr,n);
   
     cout<< "\nArray After sort";
     for(int i=0; i<n; i++){
