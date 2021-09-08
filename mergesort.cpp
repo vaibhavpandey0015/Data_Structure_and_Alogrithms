@@ -1,11 +1,9 @@
-// { Driver Code Starts
 #include <stdio.h>
 #include <bits/stdc++.h>
 using namespace std;
 
 
 
-/* Function to print an array */
 void printArray(int arr[], int size)
 {
     int i;
@@ -15,7 +13,7 @@ void printArray(int arr[], int size)
 }
 
 
- // } Driver Code Ends
+ 
 class Solution
 {
     public:
@@ -73,8 +71,6 @@ class Solution
     }
 };
 
-// { Driver Code Starts.
-
 
 int main()
 {
@@ -94,4 +90,4 @@ int main()
     printArray(arr, n);
     }
     return 0;
-}  // } Driver Code Ends
+} 

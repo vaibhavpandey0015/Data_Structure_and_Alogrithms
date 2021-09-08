@@ -59,4 +59,4 @@
 - Bubble Sort<a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/bubblesort.cpp" target="blank"> click here</a>
 - Inversions Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversionssort.cpp" target="blank"> click here</a>
 - Merge Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/mergesort.cpp" target="blank"> click here</a>
-- Quick Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/quicksort.cpp" target="blank"> click here</a>
+- Quick Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/quickSort.cpp" target="blank"> click here</a>
