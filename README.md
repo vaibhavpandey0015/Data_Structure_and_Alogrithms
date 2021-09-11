@@ -55,12 +55,16 @@
 ## Kadane's Algorithm
 - find Largest sum contiguous Subarray <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kadane.cpp" target="blank"> click here</a>
 
-## Count Inversions
-- Solution 1 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount1.cpp" target="blank"> click here</a>
-- Solution 2 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount2.cpp" target="blank"> click here</a>
-
 ## Soerting
 - Bubble Sort<a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/bubblesort.cpp" target="blank"> click here</a>
 - Inversions Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversionssort.cpp" target="blank"> click here</a>
 - Merge Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/mergesort.cpp" target="blank"> click here</a>
 - Quick Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/quickSort.cpp" target="blank"> click here</a>
+
+## Count Inversions
+- Solution 1 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount1.cpp" target="blank"> click here</a>
+- Solution 2 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount2.cpp" target="blank"> click here</a>
+
+## Kth smallest element
+- Solution 1 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kthsmallestno.cpp" target="blank"> click here</a>
+- similarly we can find kth largest element...
