@@ -66,5 +66,9 @@
 - Solution 2 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversioncount2.cpp" target="blank"> click here</a>
 
 ## Kth smallest element
-- Solution 1 <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kthsmallestno.cpp" target="blank"> click here</a>
+- <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kthsmallestno.cpp" target="blank"> click here</a>
 - similarly we can find kth largest element...
+
+
+## Median of arrays
+- <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/median.cpp" target="blank"> click here</a>
