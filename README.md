@@ -72,3 +72,6 @@
 
 ## Median of arrays
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/median.cpp" target="blank"> click here</a>
+
+## Median of 2 sorted arrays of different size
+- <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/medianof2array.cpp" target="blank"> click here</a>
