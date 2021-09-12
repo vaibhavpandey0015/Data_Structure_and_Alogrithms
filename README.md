@@ -20,7 +20,6 @@
 - --- Binary Tree
   
 
-
 # Array
 - It is a collection of Homogeneous element.
 - Homogeneous element means eleents with same datatype.
@@ -48,14 +47,13 @@
 ## Move all negative numbers to beginning and positive to end with constant extra space
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/movenegative.cpp" target="blank"> click here</a>
 
-
 ## Cyclically rotate an array by one
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/rotatebyone.cpp" target="blank"> click here</a>
 
 ## Kadane's Algorithm
 - find Largest sum contiguous Subarray <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kadane.cpp" target="blank"> click here</a>
 
-## Soerting
+## Sorting
 - Bubble Sort<a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/bubblesort.cpp" target="blank"> click here</a>
 - Inversions Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/inversionssort.cpp" target="blank"> click here</a>
 - Merge Sort <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/mergesort.cpp" target="blank"> click here</a>
@@ -68,7 +66,6 @@
 ## Kth smallest element
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/kthsmallestno.cpp" target="blank"> click here</a>
 - similarly we can find kth largest element...
-
 
 ## Median of arrays
 - <a href="https://github.com/vaibhavpandey0015/Data_Structure_and_Alogrithms/blob/main/median.cpp" target="blank"> click here</a>
